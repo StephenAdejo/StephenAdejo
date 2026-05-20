@@ -1,8 +1,8 @@
-Hi, I'm Stephen Adejo 👋
+# Hi, I'm Stephen Adejo 👋
 
-**Data Analyst | Analytics Engineer | PhD Researcher**
+**Data Analyst | Analytics Engineer | Data Engineer Enthusiast | PhD Researcher**
 
-📍 London, UK · 📧 stephenadejo@outlook.com · 🔗 [linkedin.com/in/stephen-adejo](https://linkedin.com/in/stephen-adejo)
+ 📧 stephenadejo@outlook.com · 🔗 [linkedin.com/in/stephen-adejo](https://linkedin.com/in/stephen-adejo)
 
 ---
 

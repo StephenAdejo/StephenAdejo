@@ -1,4 +1,4 @@
-# Hi, I'm Stephen Adejo 👋
+# Hi, I'm Stephen Adejo 📊
 
 **Data Analyst | Analytics Engineer | Aspiring Data Engineer**
 
